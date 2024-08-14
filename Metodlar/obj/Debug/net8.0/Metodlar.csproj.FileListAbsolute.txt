@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\bin\Debug\net8.0\Metodlar.exe
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\bin\Debug\net8.0\Metodlar.deps.json
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\bin\Debug\net8.0\Metodlar.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\bin\Debug\net8.0\Metodlar.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\bin\Debug\net8.0\Metodlar.pdb
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.sourcelink.json
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\refint\Metodlar.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.pdb
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\Metodlar.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\Metodlar\obj\Debug\net8.0\ref\Metodlar.dll

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\bin\Debug\net8.0\MainArguman.exe
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\bin\Debug\net8.0\MainArguman.deps.json
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\bin\Debug\net8.0\MainArguman.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\bin\Debug\net8.0\MainArguman.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\bin\Debug\net8.0\MainArguman.pdb
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.sourcelink.json
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\refint\MainArguman.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.pdb
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\MainArguman.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\MainArguman\obj\Debug\net8.0\ref\MainArguman.dll

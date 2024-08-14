@@ -12,3 +12,4 @@ C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\DegiskenTanimlama\obj\Deb
 C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.pdb
 C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\ref\DegiskenTanimlama.dll
+C:\Users\LENOVO\source\repos\Istkafulldata\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.sourcelink.json
